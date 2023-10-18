@@ -1,0 +1,5 @@
+﻿  ASD_Lab5.cpp
+C:\Users\Asus\source\repos\ASD_Lab5\ASD_Lab5\ASD_Lab5.cpp(158,25): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Asus\source\repos\ASD_Lab5\ASD_Lab5\ASD_Lab5.cpp(178,38): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Asus\source\repos\ASD_Lab5\ASD_Lab5\ASD_Lab5.cpp(450,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  ASD_Lab5.vcxproj -> C:\Users\Asus\source\repos\ASD_Lab5\x64\Debug\ASD_Lab5.exe
